@@ -49,5 +49,7 @@ public class HelloWorld {
             value += value;
         }
         System.out.println("value = " + value);
+
+        System.out.println("End of Lab");
     }
 }
